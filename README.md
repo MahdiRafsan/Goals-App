@@ -7,17 +7,17 @@ A simple goal setter app created using MERN stack
 # Backend
 npm install
 
-#Frontend
+# Frontend
 cd frontend
 npm install
 ```
 
-##Run Server
+## Run Server
 ```
 npm run server
 ```
 
-##Run both frontend and backend together
+## Run both frontend and backend together
 ```
 npm run dev
 ```
